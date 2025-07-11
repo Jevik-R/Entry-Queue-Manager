@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/login.jpg</file>
+        <file>img/png-clipart-queueing-theory-priority-queue-stack-abstract-data-type-others-miscellaneous-computer-network.png</file>
+    </qresource>
+</RCC>
