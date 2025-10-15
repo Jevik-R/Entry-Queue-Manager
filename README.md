@@ -1,7 +1,7 @@
 # Entry Queue Manager
 
 Capstone Project  |  Mentor: Prof. Arpit Rana
-
+---
 ---
 
 ## Problem Statement
